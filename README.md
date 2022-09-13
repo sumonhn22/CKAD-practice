@@ -1,22 +1,30 @@
-# CKAD-Practice-Questions
+# Practice questions for Certified Kubernetes Application Developer (CKAD) exam
+**The Certified Kubernetes Application Developer (CKAD) exam certifies that candidates can design, build and deploy cloud-native applications for Kubernetes.**
 
-This repo contains all the consolidated list of questions based on the DCA study guide
+**Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.**
+**The CNCF/Linux Foundation offers this performance-based exam which targets the developer aspect of kubernetes skills** 
 
-**Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications. The CNCF/Linux Foundation offers this performance-based exam which targets the developer aspect of kubernetes skills such as deploying apps, configuring apps, rolling out the application, creating persistent volumes, etc.**
+<!-- such as deploying apps, configuring apps, rolling out the application, creating persistent volumes, etc.**
 
 **Since this exam is performance-based rather than just multiple choice questions just knowing the concepts are not enough, we need a lot of practice before the exam. This article helps you understand, practice and get you ready for the exam.**
 
-**We are not going to discuss any concepts here, rather, I just want to create a bunch of practice questions for the CKAD exam based on the curriculum provided here.**
+**We are not going to discuss any concepts here, rather, I just want to create a bunch of practice questions for the CKAD exam based on the curriculum provided here.** -->
 
 
 ## Table of Contents:
-1. [Core Concepts (13%)](https://github.com/bbachi/CKAD-Practice-Questions/blob/master/core-concepts.md)
-2. [Multi-Container Pods (10%)](https://github.com/bbachi/CKAD-Practice-Questions/blob/master/multi-container-pod.md)
+1. [Application Design and Build (20%)](https://github.com/sumonhn22//blob/master/application-design-build.md)
+2. [Application Deployment (20%)](https://github.com/bbachi/CKAD-Practice-Questions/blob/master/multi-container-pod.md)
+3. [Application Observability and Maintenance (15%)](https://github.com/bbachi/CKAD-Practice-Questions/blob/master/multi-container-pod.md)
+4. [Application Environment, Configuration and Security (25%)](https://github.com/bbachi/CKAD-Practice-Questions/blob/master/multi-container-pod.md)
+5. [Services and Networking (20%)](https://github.com/bbachi/CKAD-Practice-Questions/blob/master/services-and-networking.md)
+
+
+<!-- 2. [Multi-Container Pods (10%)](https://github.com/bbachi/CKAD-Practice-Questions/blob/master/multi-container-pod.md)
 3. [Pod Design (20%)](https://github.com/bbachi/CKAD-Practice-Questions/blob/master/pod-design.md)
 4. [State Persistence (8%)](https://github.com/bbachi/CKAD-Practice-Questions/blob/master/state-persistence.md)
 5. [Configuration (18%)](https://github.com/bbachi/CKAD-Practice-Questions/blob/master/configuration.md)
 6. [Observability (18%)](https://github.com/bbachi/CKAD-Practice-Questions/blob/master/observability.md)
-7. [Services and Networking (13%)](https://github.com/bbachi/CKAD-Practice-Questions/blob/master/services-and-networking.md)
+7. [Services and Networking (20%)](https://github.com/bbachi/CKAD-Practice-Questions/blob/master/services-and-networking.md) -->
 
 
 ## Other Important Links

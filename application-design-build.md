@@ -1,4 +1,4 @@
-# Core Concepts (13%)
+# Basic Concepts 
 
 ## Practice questions based on these concepts
 
